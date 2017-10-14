@@ -9,5 +9,6 @@ public class Aa {
 		int i=2;
 		int x=3;
 		int xx=5;
+		
 	}
 }
