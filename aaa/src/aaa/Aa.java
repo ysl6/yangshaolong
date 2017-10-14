@@ -8,5 +8,6 @@ public class Aa {
 		System.out.println("888");
 		int i=2;
 		int x=3;
+		int xx=5;
 	}
 }
