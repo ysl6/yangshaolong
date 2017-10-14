@@ -6,5 +6,6 @@ public class Aa {
 		System.out.println("666");
 		System.out.println("777");
 		System.out.println("888");
+		int i=2;
 	}
 }
